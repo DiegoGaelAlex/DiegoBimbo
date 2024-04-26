@@ -1,0 +1,115 @@
+body{
+    background-color: snow;
+    border-style: double;
+    border-width: 15px;
+    border-color: brown;
+    border-radius: 10px;
+    margin: 38px 10px 5px 38px;
+    padding: 25px 25px 25px 25px;
+}
+#inicio{
+    color:mediumblue;
+    font-size: 60px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color:darkred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p.redes{
+    color: mediumblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: mediumblue;
+    font-size: 40px;
+    border-style: dashed;
+    border-color: brown;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+    border-style: solid;
+}
+article h2{
+    font-size: 30px;
+    text-decoration: underline;
+    font-family:serif;
+}
+article p{
+    font-size: 20px;
+}
+article.Uno{
+    border-style: solid;
+    border-color: brown;
+    text-align: justify;
+    color: mediumblue;
+    background-color: aliceblue;
+    height: 300px;
+    background-image: url("\(I\)\ Pan.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0px 0px 0px 25px;
+}
+article.Dos{
+    border-style: solid;
+    border-color: brown;
+    text-align: justify;
+    color: mediumseagreen;
+    background-color: rgb(235, 252, 244);
+    height: 300px;
+    background-image: url("\(I\)\ Nito.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0px 0px 0px 25px;
+}
+article.Tres{
+    border-style: solid;
+    border-color: brown;
+    text-align: justify;
+    color: orange;
+    background-color: rgb(251, 244, 226);
+    height: 300px;
+    background-image: url("\(I\)\ Mantecadas.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0px 0px 0px 25px;
+}
+article.Cuatro{
+    border-style: solid;
+    border-color: brown;
+    text-align: justify;
+    color: purple;
+    background-color: rgb(246, 238, 255);
+    height: 300px;
+    background-image: url("\(I\)\ Roles.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0px 0px 0px 25px;
+}
+article.Cinco{
+    border-style: solid;
+    border-color: brown;
+    text-align: justify;
+    color: rgb(3, 156, 156);
+    background-color: rgb(234, 251, 248);
+    height: 300px;
+    background-image: url("\(I\)\ Donitas.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0px 0px 0px 25px;
+}
+textarea{
+    color:brown;
+    text-align: center;
+    background-color: antiquewhite;
+}
+a:visited{
+    color:mediumblue;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: wheat;
+}
